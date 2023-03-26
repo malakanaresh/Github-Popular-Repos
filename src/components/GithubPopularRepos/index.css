@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.all-languages {
+  display: flex;
+}
+.failure {
+  height: 30vh;
+}
